@@ -17,7 +17,7 @@
 
 - ⚡ My Research Area **GIS, FrontEnd Techs, BackEnd Techs(Specially Python-Django), Space, History, Geography etc. Social and Science Branches**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [hmgoktugkurkcu34@gmail.com](mailto:hmgoktugkurkcu34@gmail.com)</h3>
 <p align="left">
 </p>
 
