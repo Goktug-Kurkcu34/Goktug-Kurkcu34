@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goktug Kurkcu!</h1>
 <h3 align="center">A passionate Surveying Engineer and WEB Based GIS Developer from Turkey.</h3>
 
-- 🔭 I’m currently working on [Sarkisla Kent Rehberi(City Cadastre and Zoning Information System)](https://goktug-kurkcu.github.io/sarkislakentrehberi.github.io/)
+- 🔭 I’m currently working on [Sarkisla Kent Rehberi(City Cadastre and Zoning Information System)](https://github.com/Goktug-Kurkcu34/SarkislaKentRehberi) | [WEB](https://goktug-kurkcu.github.io/sarkislakentrehberi.github.io/)
 
 - 🌱 I’m currently learning **JavaScript(Leaflet), C# and Python(Django, Flask)**
 
